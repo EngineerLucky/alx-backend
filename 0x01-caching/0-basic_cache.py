@@ -6,7 +6,7 @@ from base_caching import BaseCaching
 
 
 class BasicCache(BaseCaching):
-    """The function 
+    """The function
     Represents an object that allows storing and
     retrieving items from a dictionary.
     """
